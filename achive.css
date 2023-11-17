@@ -18,6 +18,12 @@ main{
     display: flex;
     justify-content: space-around;
     padding-bottom: 15px;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.buttons button{
+    flex: 1;
 }
 
 .pol{
