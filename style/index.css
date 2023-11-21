@@ -1,0 +1,15 @@
+.my-carousel-image {
+    max-height: 400px;
+    width: auto;
+    margin: auto;
+}
+.carousel-inner {
+    height: 400px;
+}
+
+#but{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+}
